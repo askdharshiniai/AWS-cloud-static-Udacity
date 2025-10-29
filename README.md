@@ -114,7 +114,8 @@ Successfully deploy and host a professional static website
 http://my-demo-bucket-531807.s3-website-us-east-1.amazonaws.com/
 
 ## Screenshots:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b59e1f99-8762-448b-8f71-314b724e9006" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d372e3e-4375-4a99-b31d-c47947493a94" />
+
 
 <img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/98d483f9-90e8-413d-9773-43dc7e3e3d23" />
 
