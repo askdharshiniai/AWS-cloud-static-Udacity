@@ -12,6 +12,7 @@ AWS IAM – to manage access and permissions securely
 
 The website showcases a travel-themed landing page built using HTML, CSS, Bootstrap, and Font Awesome.
 
+```
 📂 Project Structure
 /
 ├── index.html          # The main HTML file (homepage)
@@ -20,6 +21,7 @@ The website showcases a travel-themed landing page built using HTML, CSS, Bootst
 ├── /css                # Custom CSS styles for the website
 └── README.txt          # Project description and setup guide
 
+```
 🚀 Deployment Steps
 1. Create an S3 Bucket
 
@@ -49,6 +51,7 @@ Then make the files publicly readable (via permissions or bucket policy).
 
 Add the following bucket policy to allow public read access:
 
+```
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -61,7 +64,7 @@ Add the following bucket policy to allow public read access:
     }
   ]
 }
-
+```
 4. Configure CloudFront (Optional but Recommended)
 
 Go to CloudFront Console → Create Distribution
@@ -78,6 +81,7 @@ Open your bucket or CloudFront URL in a browser — your static website should b
 
 👩‍💻 Technologies Used
 
+```
 HTML5
 
 CSS3
@@ -91,9 +95,11 @@ Amazon S3
 Amazon CloudFront
 
 AWS IAM
+```
 
 🏁 Expected Outcome
 
+```
 By completing this project, you will:
 
 Understand AWS S3 static website hosting
@@ -103,5 +109,15 @@ Learn how to configure CloudFront for global distribution
 Manage IAM permissions and bucket policies securely
 
 Successfully deploy and host a professional static website
-
+```
 Screenshots:
+<img width="1919" height="979" alt="Screenshot 2025-10-29 155109" src="https://github.com/user-attachments/assets/92ed4085-7fae-43a0-875c-937e644a0ad0" />
+<img width="1778" height="53" alt="Screenshot 2025-10-29 155133" src="https://github.com/user-attachments/assets/39405272-8756-4a12-979c-98f9b8c1f9c8" />
+
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/98d483f9-90e8-413d-9773-43dc7e3e3d23" />
+
+
+
+
+
+
