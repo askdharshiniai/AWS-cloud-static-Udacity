@@ -110,7 +110,10 @@ Manage IAM permissions and bucket policies securely
 
 Successfully deploy and host a professional static website
 ```
-Screenshots:
+## Website link
+http://my-demo-bucket-531807.s3-website-us-east-1.amazonaws.com/
+
+## Screenshots:
 <img width="1919" height="979" alt="Screenshot 2025-10-29 155109" src="https://github.com/user-attachments/assets/92ed4085-7fae-43a0-875c-937e644a0ad0" />
 <img width="1778" height="53" alt="Screenshot 2025-10-29 155133" src="https://github.com/user-attachments/assets/39405272-8756-4a12-979c-98f9b8c1f9c8" />
 
