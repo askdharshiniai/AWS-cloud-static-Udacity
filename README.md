@@ -85,7 +85,7 @@ Add the following bucket policy to allow public read access:
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f21f963d-f498-456c-b5b9-7d8f7a3691d9" />
 
 ## Verify Your Website
-Open your CloudFront URL or S3 website endpoint in a browser.Your static website should now be live
+Open your CloudFront URL or S3 website endpoint in a browser.Your static website should now be live.
 
 Live S3 Website URL: http://my-demo-bucket-531807.s3-website-us-east-1.amazonaws.com/
 
@@ -95,7 +95,7 @@ Live CloudFront URL: https://d2b29ywfrwec1n.cloudfront.net/
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7fed52f-5a0b-4728-a175-67312012f3e7" />
 
-
+Once you launch your website URL will look like this and terminating your bucket and CloudFront the URL will not work.!
 
 👩‍💻 Technologies Used
 
