@@ -127,6 +127,7 @@ Manage IAM permissions and bucket policies securely
 
 Successfully deploy and host a professional static website
 ```
+You can unzip the udacity folder for vendor folder.
 
 
 
