@@ -83,7 +83,7 @@ Add the following bucket policy to allow public read access:
 - Deploy — you’ll get a CloudFront URL to access your site globally
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f21f963d-f498-456c-b5b9-7d8f7a3691d9" />
 
-5. Verify Your Website
+## Verify Your Website
 Open your CloudFront URL or S3 website endpoint in a browser.Your static website should now be live
 
 Live S3 Website URL: http://my-demo-bucket-531807.s3-website-us-east-1.amazonaws.com/
