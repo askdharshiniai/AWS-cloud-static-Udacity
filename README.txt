@@ -37,6 +37,7 @@ AWS IAM – to manage access and permissions securely
 
 - Set the index document to index.html
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/beed01b1-5068-4f55-a166-90b52b7d14bc" />
+  <img width="1920" height="1080" alt="Bucket Configuration" src="https://github.com/user-attachments/assets/b4e9d46a-e178-425b-a8e8-7710fd51dadc" />
 
 2. Upload Website Files
 
@@ -127,6 +128,7 @@ Manage IAM permissions and bucket policies securely
 
 Successfully deploy and host a professional static website
 ```
+
 
 
 
