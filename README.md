@@ -40,15 +40,14 @@ AWS IAM – to manage access and permissions securely
 
 2. Upload Website Files
 
-Upload all files and folders:
+- Upload all files and folders:
 
-index.html
-/img
-/vendor
-/css
+- index.html
+- /img
+- /vendor
+- /css
 
-
-Then make the files publicly readable (via permissions or bucket policy).
+- Then make the files publicly readable (via permissions or bucket policy).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30c0ad5d-9496-499f-9180-d79f8d1fa1ad" />
 
 3. Set Bucket Policy
